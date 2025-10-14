@@ -1,0 +1,34 @@
+[
+    {
+        "prefix":"example",
+        "values":[
+            {
+                "vid":"example_shot1",
+                "width":1676,
+                "height":954,
+                "duration":3.12,
+                "fps":25.0,
+                "url":"asset/sft/example_shot1.mp4",
+                "caption":"A man with dark hair and a golden hairpiece, wearing a gold and blue robe, smiles at another man in white in a palace courtyard with cherry blossoms. Two women are in the background."
+            },
+            {
+                "vid":"example_shot2",
+                "width":1674,
+                "height":954,
+                "duration":4.4,
+                "fps":25.0,
+                "url":"asset/sft/example_shot2.mp4",
+                "caption":"A man with dark hair and gold ornament in a blue and gold robe stands with a woman in a pink and gold dress. They face another man in a purple and white robe in a courtyard at night. The first man smiles at the third, while the woman looks solemn."
+            },
+            {
+                "vid":"example_shot3",
+                "width":1670,
+                "height":936,
+                "duration":3.48,
+                "fps":25.0,
+                "url":"asset/sft/example_shot3.mp4",
+                "caption":"Actor1, a man with dark hair tied up in a topknot, is dressed in a blue and gold robe. Actor2, a woman with auburn hair pulled back, wears a pink and gold, off-the-shoulder dress. Actor3, a woman with dark hair and a jeweled hair ornament, wears a white and magenta dress. Actor4, a man with dark hair, is partially visible and wears purple robes with gold accents. The scene appears to be outdoors, in the evening, in a courtyard or garden with a building in the background. Actor1 turns his head slightly to address Actor2. Actor2 and Actor3 appear to be listening intently to Actor1. Actor4, partially visible on the far right side of the scene, observes the interaction."
+            }
+        ]
+    }
+]
